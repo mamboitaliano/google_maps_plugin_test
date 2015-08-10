@@ -1,3 +1,5 @@
+var portrero = new google.maps.LatLng(37.750538,-122.4050346);
+
 function initialize() {
   var mapProp = {
     center:portrero, // <- LatLng is where we want to send location data from phone
